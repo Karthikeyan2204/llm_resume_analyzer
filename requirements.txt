@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+pdfplumber
+python-docx
+transformers
+torch
+numpy
+
+langchain
+langchain-core
+langchain-groq
+
+
+pandas
+datasets
+scikit-learn
